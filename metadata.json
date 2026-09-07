@@ -1,0 +1,8 @@
+{
+  "name": "Remix WeatherAI",
+  "description": "Conversational AI weather forecasting, alert, and climate information platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
